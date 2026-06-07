@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+
+.env
+
+app/uploads/*
+app/charts_output/*
+
+.idea/
+.vscode/
+
+*.db
+
+.DS_Store
